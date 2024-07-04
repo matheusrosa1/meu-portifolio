@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --green: #00BC13;
+  --grey: #EDEDED;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Kaisei', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+}
